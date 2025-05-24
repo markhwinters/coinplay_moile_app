@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "coinplay_moile_app",
-    "slug": "coinplay_moile_app",
+    "name": "cryptoplay_mobile_app",
+    "slug": "cryptoplay_mobile_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "coinplaymoileapp",
+    "scheme": "cryptoplaymobileapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

@@ -2,7 +2,7 @@ import { ClerkProvider } from "@clerk/clerk-expo";
 import { tokenCache } from "@clerk/clerk-expo/token-cache";
 import { Stack } from "expo-router";
 import { StatusBar } from "react-native";
-import "./global.css";
+import "./globals.css";
 
 export default function RootLayout() {
   return (
